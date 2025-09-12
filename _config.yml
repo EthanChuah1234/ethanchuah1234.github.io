@@ -23,7 +23,7 @@ repository               : "https://ethanchuah1234.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   name             : "Ethan Chuah Shang Zer"
   pronouns         : # example: "she/her"  
   bio              : "Hey there! I'm Ethan Chuah, a student from Chung Ling Private High School. I'm a passionate developer and experienced in multiple languages of coding. I've started coding since I was 7, meddling with a software most commonly known as Scratch. I immediately fell in love with creating and building things. This portfolio showcases my projects and skills."
