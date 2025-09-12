@@ -9,14 +9,14 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Ethan Chuah's portfolio"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Ethan Chuah"
+description              : &description "Ethan Chuah's portfolio website"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://ethanchuah1234.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -26,11 +26,11 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Hey there! I'm Ethan Chuah, a student from Chung Ling Private High School. I'm a passionate developer and experienced in multiple languages of coding. I've started coding since I was 7, meddling with a software most commonly known as Scratch. I immediately fell in love with creating and building things. This portfolio showcases my projects and skills."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Chung Ling Private High School"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "s25378@clphs.edu.my" 
 
   # Academic websites
   academia         : # URL
