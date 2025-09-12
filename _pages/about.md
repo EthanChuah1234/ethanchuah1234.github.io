@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "🧠 Ethan Chuah — Developer Portfolio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-🧠 Ethan Chuah — Developer Portfolio
 💡 About Me
 
 Hi, I'm Ethan Chuah, a passionate and self-driven programmer with a love for solving problems and building creative digital experiences. I started my coding journey at the age of 7 on Scratch, where I discovered how fun and powerful programming can be. Since then, I’ve been expanding my skills across multiple languages and platforms, always looking for new challenges and opportunities to grow.
