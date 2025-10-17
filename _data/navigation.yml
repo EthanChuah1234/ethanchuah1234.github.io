@@ -9,13 +9,13 @@
 
 main:
   - title: "💻 My Coding Journey"
-    url: /Coding/
+    url: /coding.html/
 
   - title: "🛠️ Tech Stack"
-    url: /techstack/    
+    url: /techstack.html/
 
   - title: "🚀 Goals"
-    url: /Goals/    
+    url: /goals.html/
     
   - title: "📫 Let’s Connect"
     url: /year-archive/
